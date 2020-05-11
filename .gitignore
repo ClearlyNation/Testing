@@ -1,0 +1,8 @@
+### NODE_MODULES ###
+node_modules/
+
+### ENV ###
+config/.env
+
+### OUTPUT ###
+dist/
